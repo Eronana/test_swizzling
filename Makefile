@@ -1,4 +1,6 @@
-run: prog injlib.dylib
+all: prog injlib.dylib
+
+run: all
 	DYLD_INSERT_LIBRARIES=injlib.dylib ./prog
 
 prog: prog.m
