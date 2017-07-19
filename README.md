@@ -11,3 +11,6 @@ A simple program that will be injected `injlib.dylib`.
 
 ## injlib.dylib
 A dynamic library that will inject to `prog`.
+
+## Others
+I started learning Objective-C three days ago, please forgive me if there is anything wrong.
